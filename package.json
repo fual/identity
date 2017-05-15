@@ -9,6 +9,7 @@
     "logo": "gulp logo"
   },
   "dependencies": {
+    "gulp-sharp": "underoot/gulp-sharp",
     "sharp": "^0.17.3"
   }
 }
