@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "minimist": "^1.2.0"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "logo": "gulp logo"
+  },
+  "dependencies": {
+    "sharp": "^0.17.3"
+  }
+}
