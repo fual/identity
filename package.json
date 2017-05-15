@@ -2,14 +2,12 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
+    "gulp-sharp": "underoot/gulp-sharp",
     "minimist": "^1.2.0"
   },
   "scripts": {
     "build": "gulp build",
     "logo": "gulp logo"
   },
-  "dependencies": {
-    "gulp-sharp": "underoot/gulp-sharp",
-    "sharp": "^0.17.3"
-  }
+  "dependencies": {}
 }
